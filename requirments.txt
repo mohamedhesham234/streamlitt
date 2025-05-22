@@ -1,4 +1,4 @@
-pandasai>=1.4.0
+pandasai==1.5.15
 pandas
 openai
 streamlit
