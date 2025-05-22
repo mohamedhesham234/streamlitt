@@ -1,6 +1,0 @@
-pandasai>=1.4.0
-pandas
-openai
-streamlit
-SmartDataframe
-vanna
